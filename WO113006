@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Work Order WO113006 - Photos</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f7f6; color: #333; padding: 20px; }
+        .header { text-align: center; margin-bottom: 30px; background: #2c3e50; color: white; padding: 20px; border-radius: 8px; }
+        .header h2 { margin: 0 0 10px 0; font-size: 2em; }
+        .gallery-container { display: flex; flex-direction: column; gap: 30px; max-width: 1000px; margin: 0 auto; }
+        .photo-row { display: flex; background: #fff; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); gap: 20px; }
+        .photo-col { flex: 1; display: flex; flex-direction: column; align-items: center; }
+        img { max-width: 100%; height: auto; border-radius: 4px; border: 1px solid #ddd; object-fit: cover; }
+        @media (max-width: 600px) { .photo-row { flex-direction: column; } }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h2>Work Order: WO113006</h2>
+        <p>Site Maintenance: Before & After Compilation</p>
+    </div>
+    <div class="gallery-container">
+        <div class="photo-row"><div class="photo-col"><h3>Before</h3><img src="https://www.appsheet.com/template/gettablefileurl?appName=NorthernBeaches-Manly-4669296&tableName=Cutting%20List&fileName=Cutting%20List_Images%2F7C29F8CB.Photo%20Before.023531.jpg" alt="Before"></div><div class="photo-col"><h3>After</h3><img src="https://www.appsheet.com/template/gettablefileurl?appName=NorthernBeaches-Manly-4669296&tableName=Cutting%20List&fileName=Cutting%20List_Images%2F7C29F8CB.Photo%20After.043137.jpg" alt="After"></div></div>
+        <div class="photo-row"><div class="photo-col"><h3>Before</h3><img src="https://www.appsheet.com/template/gettablefileurl?appName=NorthernBeaches-Manly-4669296&tableName=Cutting%20List&fileName=Cutting%20List_Images%2F5a80797c.Photo%20Before.023626.jpg" alt="Before"></div><div class="photo-col"><h3>After</h3><img src="https://www.appsheet.com/template/gettablefileurl?appName=NorthernBeaches-Manly-4669296&tableName=Cutting%20List&fileName=Cutting%20List_Images%2F5a80797c.Photo%20After.043204.jpg" alt="After"></div></div>
+        <div class="photo-row"><div class="photo-col"><h3>Before</h3><img src="https://www.appsheet.com/template/gettablefileurl?appName=NorthernBeaches-Manly-4669296&tableName=Cutting%20List&fileName=Cutting%20List_Images%2F6bb7be43.Photo%20Before.023704.jpg" alt="Before"></div><div class="photo-col"><h3>After</h3><img src="https://www.appsheet.com/template/gettablefileurl?appName=NorthernBeaches-Manly-4669296&tableName=Cutting%20List&fileName=Cutting%20List_Images%2F6bb7be43.Photo%20After.043224.jpg" alt="After"></div></div>
+        <div class="photo-row"><div class="photo-col"><h3>Before</h3><img src="https://www.appsheet.com/template/gettablefileurl?appName=NorthernBeaches-Manly-4669296&tableName=Cutting%20List&fileName=Cutting%20List_Images%2Fbfcb3251.Photo%20Before.023731.jpg" alt="Before"></div><div class="photo-col"><h3>After</h3><img src="https://www.appsheet.com/template/gettablefileurl?appName=NorthernBeaches-Manly-4669296&tableName=Cutting%20List&fileName=Cutting%20List_Images%2Fbfcb3251.Photo%20After.043301.jpg" alt="After"></div></div>
+        <div class="photo-row"><div class="photo-col"><h3>Before</h3><img src="https://www.appsheet.com/template/gettablefileurl?appName=NorthernBeaches-Manly-4669296&tableName=Cutting%20List&fileName=Cutting%20List_Images%2F35e02b25.Photo%20Before.023759.jpg" alt="Before"></div><div class="photo-col"><h3>After</h3><img src="https://www.appsheet.com/template/gettablefileurl?appName=NorthernBeaches-Manly-4669296&tableName=Cutting%20List&fileName=Cutting%20List_Images%2F35e02b25.Photo%20After.043320.jpg" alt="After"></div></div>
+        <div class="photo-row"><div class="photo-col"><h3>Before</h3><img src="https://www.appsheet.com/template/gettablefileurl?appName=NorthernBeaches-Manly-4669296&tableName=Cutting%20List&fileName=Cutting%20List_Images%2F220b6711.Photo%20Before.023842.jpg" alt="Before"></div><div class="photo-col"><h3>After</h3><img src="https://www.appsheet.com/template/gettablefileurl?appName=NorthernBeaches-Manly-4669296&tableName=Cutting%20List&fileName=Cutting%20List_Images%2F220b6711.Photo%20After.043245.jpg" alt="After"></div></div>
+        <div class="photo-row"><div class="photo-col"><h3>Before</h3><img src="https://www.appsheet.com/template/gettablefileurl?appName=NorthernBeaches-Manly-4669296&tableName=Cutting%20List&fileName=Cutting%20List_Images%2Fb21bc054.Photo%20Before.023918.jpg" alt="Before"></div><div class="photo-col"><h3>After</h3><img src="https://www.appsheet.com/template/gettablefileurl?appName=NorthernBeaches-Manly-4669296&tableName=Cutting%20List&fileName=Cutting%20List_Images%2Fb21bc054.Photo%20After.043339.jpg" alt="After"></div></div>
+    </div>
+</body>
+</html>
